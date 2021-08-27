@@ -1,0 +1,25 @@
+.column-table{
+  margin-right: 0;
+}
+
+.watchIMG{
+    position: relative;
+    left: 30%;
+}
+#facebookIcon {
+    color:white;
+    border-radius: 50%;
+    font-size: 20px;
+    justify-content: space-around;
+    border: 2px solid;
+    background-color:rgb(59, 89, 152) ;
+    padding: 10px;
+    margin: 0 10px 0 10px;
+
+  }
+  p, h1,h2{
+    font-family: 'Open Sans', sans-serif;
+  }
+  a:hover{
+      cursor: pointer;
+  }
